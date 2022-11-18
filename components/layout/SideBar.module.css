@@ -1,0 +1,19 @@
+.sidebar * {
+  font-size: 100%;
+  font-family: MuseoSansRounded;
+}
+
+.sidebar {
+  background-color: #152442;
+  width: 280px;
+}
+
+.logo {
+  width: 2rem;
+  height: 100%;
+}
+
+.active {
+  background-color: #43b049 !important;
+  border-color: #43b049 !important;
+}

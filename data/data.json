@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1",
+    "name": "Github",
+    "description": "Get updates from the world's leading development platform",
+    "imageURL": "/img/integrations/github.png"
+  },
+  {
+    "_id": "2",
+    "name": "Zoom",
+    "description": "Easily start a Zoom meeting",
+    "imageURL": "/img/integrations/zoom.png"
+  },
+  {
+    "_id": "3",
+    "name": "Dropbox",
+    "description": "Connect Dropbox to easily share content",
+    "imageURL": "/img/integrations/dropbox.png"
+  },
+  {
+    "_id": "4",
+    "name": "Trello",
+    "description": "Collaborate on Trello projects",
+    "imageURL": "/img/integrations/trello.png"
+  },
+  {
+    "_id": "5",
+    "name": "Zapier",
+    "description": "Edit, manage and create new Zaps",
+    "imageURL": "/img/integrations/zapier.png"
+  },
+  {
+    "_id": "6",
+    "name": "Jira",
+    "description": "Interact with Jira issues and get notifications when things change",
+    "imageURL": "/img/integrations/jira.png"
+  }
+]

@@ -1,0 +1,28 @@
+.card {
+  width: 16rem;
+}
+
+.image {
+  padding: 46px;
+  border-bottom: 1px solid #ced4da;
+}
+
+.cardBody {
+  height: 8rem;
+}
+
+.description {
+  height: 3.5rem;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.label__enabled {
+  color: #43b049;
+}
+
+.label__disabled {
+  color: #6c757d;
+}
